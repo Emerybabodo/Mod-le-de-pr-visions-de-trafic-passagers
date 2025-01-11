@@ -39,8 +39,12 @@ cd Trafic-passengers-forecast-of-Cameroon-Airports
 bash
 Copy code
 pip install -r requirements.txt
-9. Exécuter les notebooks :
-Ouvrir et exécuter les notebooks dans scripts/ pour visualiser les étapes de collecte, de modélisation et d’évaluation des données.
+9. structure du répertoire Prévisions de trafic :
+Il est composé de deux dossiers, le dossier Data sui contient les bases de données utilisée pour le projet et le dossier Scripts qui contient les codes d'analyses exploratoire de données, l'entrainement et l'application des modèles, ainsi que l'évaluation des modèles.
+10. Exécuter les notebooks
+Ouvrir et exécuter les notebooks dans scripts/ qui se situe dans le dossiers Prévisions de trafic, afin de visualiser les étapes de collecte, de modélisation et d’évaluation des données.
+
+Toutes les contributions à ce modeste projet sont les bienvenues.
 
 Auteur
 Christian-Jacques BABODO- Chargé d'études Innovation digitale, Aviation Data Scientist.
