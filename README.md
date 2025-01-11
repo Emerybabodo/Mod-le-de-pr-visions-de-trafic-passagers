@@ -29,4 +29,22 @@ Rapport détaillé sur les tendances du trafic aérien et recommandations strat�
 Données manquantes : Trafic de certaines années marquées par des anomalies (ex. Les trimestres 2 et 3 des années 2020 qui ont été marqués par le Covid-19).
 Taille limitée du dataset : Adaptation des modèles à des échantillons réduits (36 observations).
 Absence de certaines données historiques sous forme trimestrielles pour un des prédicteurs : Utilisation de l'interpolation linéaire pour passer des données annuelles aux données trimestrielles.
+Comment exécuter le projet
+7. Cloner le dépôt :
+bash
+Copy code
+git clone https://github.com/Emerybabodo/Trafic-passengers-forecast-of-Cameroon-Airports
+cd Trafic-passengers-forecast-of-Cameroon-Airports
+8. Installer les dépendances :
+bash
+Copy code
+pip install -r requirements.txt
+9. Exécuter les notebooks :
+Ouvrir et exécuter les notebooks dans scripts/ pour visualiser les étapes de collecte, de modélisation et d’évaluation des données.
 
+Auteur
+Christian-Jacques BABODO- Chargé d'études Innovation digitale, Aviation Data Scientist.
+
+Contact
+📧 Email : emerybabodo@gmail.com
+🔗 LinkedIn : www.linkedin.com/in/christian-jacques-babodo-emerybabodo
