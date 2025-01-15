@@ -22,6 +22,7 @@ Langages : Python (pandas, numpy scikit-learn, statsmodels)
 Outils de visualisation : Matplotlib
 Gestion des données : Excel pour les bases de données aéroportuaires
 5. Résultats attendus
+Algorithme retenu : Elastic Net en raison de sa précision et d sa capacité à suivre la tendance des données de trafic passagers historiques trimestrielles.
 Modèle prévisionnel opérationnel pour un horizon de 5 ans.
 Tableau de bord Power BI pour visualiser les prévisions de trafic passagers.
 Rapport détaillé sur les tendances du trafic aérien et recommandations stratégiques.
